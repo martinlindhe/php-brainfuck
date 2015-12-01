@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php": ">=5.5.9",
+        "martinlindhe/php-debughelper": "~0.1"
+    },
+    "autoload": {
+        "files": [
+        ],
+        "psr-4": {
+            "MartinLindhe\\Brainfuck\\": "src/"
+        }
+    }
+}
